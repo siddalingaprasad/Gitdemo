@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 #Addition function
 #Substraction function
 #Testing for merge
@@ -8,3 +9,6 @@
 =======
 #Doing cherry pick
 >>>>>>> 5a56525 (Testing cherry pick)
+=======
+#Removing all
+>>>>>>> 3b1ae08 (Removing all)
